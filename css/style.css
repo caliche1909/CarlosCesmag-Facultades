@@ -1,0 +1,21 @@
+.container{
+    width: 0 90%;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.btn-success:hover{
+    background-color: white;
+    color: green;
+    border: 1px solid green;
+    
+}
+.btn-danger:hover{
+    background-color: white;
+    color: red;
+    border: 1px solid red;
+    
+}
+table thead{
+    background-color: black;
+    color: white;
+}
