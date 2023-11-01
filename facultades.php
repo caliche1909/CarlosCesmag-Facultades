@@ -15,8 +15,8 @@
 <body>
     <div class=" container">
         <h1>FACULTADES</h1>
-
     </div>
+    
     <div class="container">
         <table class="table">
             <thead>
@@ -51,7 +51,12 @@
                
             </tbody>
         </table>
+        <div>
+            <a href="form_registro_facultad.php"><button type="button" class="btn btn-primary">Registrar Facultad</button></a>
+            
+        </div>
     </div>
+    
 
 </body>
 
